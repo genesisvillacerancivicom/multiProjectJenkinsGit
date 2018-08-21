@@ -1,4 +1,4 @@
 *.log
-.plugins
-.metadata
+.plugins/
+.metadata/
 *.zip
